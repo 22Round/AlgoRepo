@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "pera-wallet",
+        "html_url": "https://github.com/perawallet/pera-wallet",
+        "description": "Source code for Pera Wallet, simply the best Algorand wallet."
+    },
+    {
+        "id": 2,
+        "name": "kotlin-walletconnect-lib",
+        "html_url": "https://github.com/perawallet/kotlin-walletconnect-lib",
+        "description": "library to use WalletConnect with Kotlin or Java",
+    },
+    {
+        "id": 3,
+        "name": "ActiveLabel.swift",
+        "html_url": "https://github.com/perawallet/ActiveLabel.swift",
+        "description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
+    },
+    {
+        "id": 4,
+        "name": "connect",
+        "html_url": "https://github.com/perawallet/connect",
+        "description": "JavaScript SDK for integrating Pera Wallet to web applications.",
+    }
+]

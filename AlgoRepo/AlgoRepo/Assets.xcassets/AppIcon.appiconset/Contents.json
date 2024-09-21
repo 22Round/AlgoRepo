@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_193211_create_a_logo_with_the_lambda_symbole.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
